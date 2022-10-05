@@ -1,2 +1,2 @@
-# Polygon CDC
+# Polygon Core Dev Course
 
